@@ -34,6 +34,7 @@ Transitioning from **.NET Full Stack Developer (6+ years)** to **AI Engineer** b
 |-----|------|-------|------|
 | 1 | Jun 20 | AI Engineer Roadmap Overview | [Post]() |
 | 2 | Jun 21 | Python: Google Colab & First Program | [Code](./Lecture-01/) |
+| 3 | Jun 22 | Python Basics: Comments, Quotes, Arithmetic Ops | [Code](./Lecture-03/) |
 
 ---
 
@@ -61,4 +62,4 @@ Transitioning from **.NET Full Stack Developer (6+ years)** to **AI Engineer** b
 
 ---
 
-> _"Slowly transitioning. Building in public. Learning for the long term."_
+> *"Slowly transitioning. Building in public. Learning for the long term."*
